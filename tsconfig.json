@@ -1,0 +1,14 @@
+{
+    "compilerOptions":{
+        "target": "es5",
+        // "outDir": "./dist/Config/"
+        "outFile": "./Output/Config/compiled.js"
+    },
+    "include": [
+         "./**/*" //all files from projects folder
+        //"./src/**/*" //all files from src folder
+    ],
+    "exclude": [
+
+    ]
+}
